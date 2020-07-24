@@ -1,0 +1,9 @@
+-I have put the Zero Normalized Cross Correlation code into the znccPrf.mlx file, 
+please run that file to see what I mean.
+
+-The necessary variable for the function "enrollTemplateImg" is saved in the workspace.mat file.
+and the variable is the template image to be run against the other image "finger1E.tif".
+
+-The other pictures are just the screenshots of my profiling the ZNCC code
+
+Thanks so much as you help me, I really appreciate it.
